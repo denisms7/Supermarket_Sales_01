@@ -1,5 +1,5 @@
 # Supermarket Sales v01
-## 🚀 Aplicacao de Análise de Dados
+## 🚀 Aplicação de Análise de Dados
 Dashboard web interativo de análise de vendas para dispositivos moveis e computadores
 
 ![vendas](https://user-images.githubusercontent.com/82631808/178117148-46acf8ec-dd49-47f0-8a6c-9a8a4a20afb4.png)
