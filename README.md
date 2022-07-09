@@ -36,7 +36,7 @@ Este e um projeto desenvolvido com embase em Flask então para implementação d
 
 ## ✒️ Autores
 
-* **Desenvolvedor** - *Denis Muniz Silva* - [Denis Muniz Silva](https://github.com/denisms7)
+* **Desenvolvedor** - *Denis Muniz Silva* - [GitHub](https://github.com/denisms7) - [LinkedIn](https://www.linkedin.com/in/denisms/)
 
 
 ## 📄 Licença
