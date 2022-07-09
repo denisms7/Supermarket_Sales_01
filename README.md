@@ -8,8 +8,7 @@ Dashboard web interativo de análise de vendas para dispositivos moveis e comput
 
 ### 📋 Pré-requisitos
 
-Crie um ambiente virtual conforme o arquivo de requerimentos abaixo: 
-[Requerimentos](https://github.com/denisms7/Supermarket_Sales_01/blob/main/requirements.txt)
+Crie um ambiente virtual conforme o arquivo de [requerimentos](https://github.com/denisms7/Supermarket_Sales_01/blob/main/requirements.txt)
 
 
 ### 🔧 Instalação
