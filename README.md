@@ -29,9 +29,11 @@ Este e um projeto desenvolvido com embase em Flask então para implementação d
 ## 🛠️ Construído com
 
 * [Python](https://www.python.org/) - Linguagem matriz utilizada
+* [Pandas](https://pandas.pydata.org/) - Usado para análise de dados
 * [Dash](https://plotly.com/dash/) - Framework web daseado em [Flask](https://flask.palletsprojects.com/en/2.1.x/)
-* [Plotly](https://plotly.com/python/) - Usado para gerar os Graficos
 * [Dash Bootstrap Components](https://dash-bootstrap-components.opensource.faculty.ai/) - Framework CSS usado
+* [Plotly](https://plotly.com/python/) - Usado para gerar os Graficos
+
 
 
 ## ✒️ Autores
