@@ -106,4 +106,5 @@ def renderizar_graficos(check_cidades, check_agrupador):
     return fig_cidade, fig_pagamento, fig_produto, fig_valor_tempo
 
 if __name__ == "__main__":
-    app.run_server(host='0.0.0.0', port=80, debug=True)
+    #app.run_server(host='0.0.0.0', port=80, debug=True)
+    app.run_server(debug=False)
